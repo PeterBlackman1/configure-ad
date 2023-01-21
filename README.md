@@ -46,3 +46,11 @@ Created my resourse group, virtual network and subnet. I set the Domain Controll
 Creating my client VM machine using Windows 10 and naming it Client-1
 
 <p>
+
+https://user-images.githubusercontent.com/120864279/213887533-7be956f2-b81f-44aa-bc04-292bd28977db.mp4
+
+<p>
+
+Setting the domain controller's NIC private IP address to be static.
+
+<p>

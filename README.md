@@ -30,3 +30,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
+  
+<img width="1440" alt="Screen Shot 2023-01-21 at 2 50 43 PM" src="https://user-images.githubusercontent.com/120864279/213886702-2157a958-8485-4959-96d5-469c75b26115.png">
+
+<p>
+
+Created my resourse group, virtual network and subnet. I set the Domain Controller VM to Windows Server 2021 and named it DC-1
+
+<p>

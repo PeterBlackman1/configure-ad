@@ -35,7 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 
-Created my resourse group, virtual network and subnet. I set the Domain Controller VM to Windows Server 2021 and named it DC-1
+Created my resourse group, virtual network and subnet. I set the Domain Controller VM to Windows 10 and named it DC-1.
 
 <p>
 

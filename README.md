@@ -54,3 +54,7 @@ https://user-images.githubusercontent.com/120864279/215350436-3a6ad0c7-2f70-4eca
 Setting the domain controller's NIC private IP address to be static.
 
 <p>
+  
+![Screen Shot 2023-01-29 at 1 31 18 PM (2)](https://user-images.githubusercontent.com/120864279/215351200-abcc1c05-3927-475b-b55d-9ab648169cda.png)
+  
+A view of the NetworkWatcher topology showing that all of my networks are both in the same Vnet.

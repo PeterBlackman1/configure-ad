@@ -196,4 +196,16 @@ Getting my DNS servers private IP address to set Client-1 private IP address as 
 
 <p>
 
+
+<img width="1440" alt="Screen Shot 2023-01-30 at 5 22 09 PM" src="https://user-images.githubusercontent.com/120864279/215619636-9191b094-b0a3-4368-9262-edb3ac1c5cab.png">
+
+Going into Client-1 networking settings and click on the Network Interface to change the virtual NIC.
+
+<p>
+
+<img width="1440" alt="Screen Shot 2023-01-30 at 5 23 05 PM" src="https://user-images.githubusercontent.com/120864279/215620503-0a97998b-de7c-4253-b832-4d4c3b4a63ae.png">
+
+Going under settings and clicking DNS servers, I'm able to change the the DNS Servers to custom, so I can now connect Client-1 to DC-1 DNS Server. 
+
+<p>
 <p>

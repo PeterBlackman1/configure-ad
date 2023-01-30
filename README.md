@@ -115,3 +115,9 @@ When at the additional options page I wait until my domain names populates the f
 Making sure that all of my paths are the correct.
 
 <p>
+
+<img width="1440" alt="Screen Shot 2023-01-30 at 1 55 50 PM" src="https://user-images.githubusercontent.com/120864279/215581724-25438f92-cf28-4775-a444-f6be3b506f43.png">
+
+The computer will now do a prerequisite check to be sure that I have everything that I need in order to move forward with the installation. 
+
+<p>

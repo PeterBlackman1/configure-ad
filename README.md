@@ -77,3 +77,7 @@ Testing ping to be sure that I'm able to communicate between DC-1 and CLient-1.
 Now I'm going to open the server manager, therefore; I can install Active Directory Domain Services
 
 <p>
+ 
+ https://user-images.githubusercontent.com/120864279/215569435-456f8f5e-9771-472a-bac9-5cc7e9a6518d.mp4
+  
+ In the server manager I select add roles and features to begin the installation process for Active Directory. As I go through the installation process and get to select the server roles, I add the Active Directory and Domain Services role.

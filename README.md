@@ -69,3 +69,11 @@ Here im going into DC-1 Windows Defender Firewall to enable ICMPv4 in the inboun
 ![Screen Shot 2023-01-29 at 7 15 18 PM (2)](https://user-images.githubusercontent.com/120864279/215368307-401de4c5-0766-463f-8ac9-b077d64e58d7.png)
   
 Testing ping to be sure that I'm able to communicate between DC-1 and CLient-1.
+
+<p>
+
+<img width="1440" alt="Screen Shot 2023-01-30 at 11 52 22 AM" src="https://user-images.githubusercontent.com/120864279/215555253-3b31b14e-7e83-43b1-bd5f-cb7c54f31ec5.png">
+
+Now I'm going to open the server manager, therefore; I can install Active Directory Domain Services
+
+<p>

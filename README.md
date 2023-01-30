@@ -127,3 +127,9 @@ The computer will now do a prerequisite check to be sure that I have everything 
 Now I'm ready to install Active Directory. If everything goes well in the installation process my results will be good, however; if there are any errors it will show me so I can fix them.
 
 <p>                                                                                                              
+
+<img width="1440" alt="Screen Shot 2023-01-30 at 2 02 59 PM" src="https://user-images.githubusercontent.com/120864279/215583177-fad2bc6e-22d7-4522-9fe9-dacad6422bc4.png">
+
+If the installation process went correct with no errors I will be prompted to restart my computer because Active Directory has been installed.
+
+<p>

@@ -208,4 +208,17 @@ Going into Client-1 networking settings and click on the Network Interface to ch
 Going under settings and clicking DNS servers, I'm able to change the the DNS Servers to custom, so I can now connect Client-1 to DC-1 DNS Server. 
 
 <p>
+ 
+ <img width="1440" alt="Screen Shot 2023-01-30 at 5 40 06 PM" src="https://user-images.githubusercontent.com/120864279/215622791-774f9960-4b2c-4cc0-a285-14a114e92240.png">
+
+After I assign the DNS server private IP to Client-1 I have to restart computer.
+<p>
+
+
+![Screen Shot 2023-01-30 at 5 48 01 PM (2)](https://user-images.githubusercontent.com/120864279/215622848-cd718556-72af-4864-bc81-b56560196a78.png)
+
+After computer is back up and running, I right-click the menu and go to system. When in system I go over to rename this PC.
+
+<p>
+
 <p>

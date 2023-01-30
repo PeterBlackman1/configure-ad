@@ -182,4 +182,12 @@ Finishing creating the account.
 
 <p>
 
+https://user-images.githubusercontent.com/120864279/215608643-aff9129c-4950-4de4-8b3f-4abc559ade50.mp4
+
+
+
+After I created the user, I'd like to add it to the Admins group. I then go into properties and go to the "Member Of" group, where I'm able to add it. When I get the name example page I type in "domain" for the names of different domain groups to show.
+
+<p>
+
 <p>

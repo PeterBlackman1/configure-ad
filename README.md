@@ -146,7 +146,17 @@ To open Active Directory in the server manager I click tools and select Active D
 
 <p>
 
+![Screen Shot 2023-01-30 at 2 19 32 PM (2)](https://user-images.githubusercontent.com/120864279/215586405-f2c70017-8c61-4a7f-ae0f-b638e629abf2.png)
 
+Creating two organizational units. One called _ADMINS and the other _EMPLOYEES.
+
+<p>
+
+![Screen Shot 2023-01-30 at 2 20 35 PM (2)](https://user-images.githubusercontent.com/120864279/215586416-24daa693-4abf-47c3-940d-c31e672d5a68.png)
+
+After I've created my two organizations units _ADMINS and _EMPLOYEES.
+
+<p>
 
 
 

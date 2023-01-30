@@ -31,8 +31,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
   
-<img width="1440" alt="Screen Shot 2023-01-29 at 9 50 32 AM" src="https://user-images.githubusercontent.com/120864279/215338304-04c0a527-66a9-4047-8956-5efbaaa34fc2.png">
-
+<img width="1440" alt="Screen Shot 2023-01-29 at 8 48 15 PM" src="https://user-images.githubusercontent.com/120864279/215377373-e38688f7-a978-4afc-80a5-e7efc620fe19.png">
 <p>
 
 Created my resourse group, virtual network and subnet. I set the Domain Controller VM to Windows 10 and named it DC-1.

@@ -58,3 +58,9 @@ Setting the domain controller's NIC private IP address to be static.
 ![Screen Shot 2023-01-29 at 1 31 18 PM (2)](https://user-images.githubusercontent.com/120864279/215351200-abcc1c05-3927-475b-b55d-9ab648169cda.png)
   
 A view of the NetworkWatcher topology showing that all of my networks are both in the same Vnet.
+
+<p>
+  
+<img width="1440" alt="Screen Shot 2023-01-29 at 7 04 16 PM" src="https://user-images.githubusercontent.com/120864279/215367526-0ecd2e23-47d6-4600-8ac3-521c1c35ca59.png">
+
+Here im going into DC-1 Windows Defender Firewall to enable ICMPv4 in the inbound rules to enable ICMPv4 traffic between DC-1 and Client-1. 

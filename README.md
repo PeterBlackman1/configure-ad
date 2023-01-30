@@ -133,3 +133,11 @@ Now I'm ready to install Active Directory. If everything goes well in the instal
 If the installation process went correct with no errors I will be prompted to restart my computer because Active Directory has been installed.
 
 <p>
+
+![Screen Shot 2023-01-30 at 2 06 47 PM (2)](https://user-images.githubusercontent.com/120864279/215583915-b3bf5425-1932-4747-ac08-a0e6698766c1.png)
+
+After resetting my computer and coming back to the server manager this is how scrren should look. All of the red error notifications on the roles and server group has all turned green which means a successful installation.
+  
+<p>
+
+<p>

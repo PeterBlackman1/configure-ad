@@ -99,5 +99,10 @@ After promoting to Active Directory I have to configure deployment. I select ad 
 
 <p>
   
- 
- 
+<img width="1440" alt="Screen Shot 2023-01-30 at 1 22 21 PM" src="https://user-images.githubusercontent.com/120864279/215575126-9dc47962-e5f1-40e7-a978-e88cdcdf64ab.png">
+
+Once I get to the domain controller options I have to set up a password for my domain server.
+  
+<p>
+  
+

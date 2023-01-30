@@ -190,4 +190,10 @@ After I created the user, I'd like to add it to the Admins group. I then go into
 
 <p>
 
+<img width="1440" alt="Screen Shot 2023-01-30 at 5 12 04 PM" src="https://user-images.githubusercontent.com/120864279/215618122-5780c4a9-24d6-4a2d-94ae-93ca9132ff60.png">
+
+Getting my DNS servers private IP address to set Client-1 private IP address as the same.
+
+<p>
+
 <p>

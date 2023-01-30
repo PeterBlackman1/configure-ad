@@ -81,3 +81,23 @@ Now I'm going to open the server manager, therefore; I can install Active Direct
  https://user-images.githubusercontent.com/120864279/215569435-456f8f5e-9771-472a-bac9-5cc7e9a6518d.mp4
   
  In the server manager I select add roles and features to begin the installation process for Active Directory. As I go through the installation process and get to select the server roles, I add the Active Directory and Domain Services role.
+
+ <p>
+   
+ <img width="1440" alt="Screen Shot 2023-01-30 at 1 14 26 PM" src="https://user-images.githubusercontent.com/120864279/215572697-51dcca8e-bec4-44a8-b66d-c8d42afe68ff.png">
+
+
+
+After Active Directory is finished installing I close the window. Then I click the notification at the top right and select Promote this server to Domain Controller.
+
+<p>
+ 
+
+<img width="1440" alt="Screen Shot 2023-01-30 at 1 18 51 PM" src="https://user-images.githubusercontent.com/120864279/215573994-b1ec13aa-9a88-41f0-8b04-0eeca9b70c08.png">
+
+After promoting to Active Directory I have to configure deployment. I select ad new forest since I'm making my own domain name.
+
+<p>
+  
+ 
+ 

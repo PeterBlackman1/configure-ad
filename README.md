@@ -121,3 +121,9 @@ Making sure that all of my paths are the correct.
 The computer will now do a prerequisite check to be sure that I have everything that I need in order to move forward with the installation. 
 
 <p>
+
+<img width="1440" alt="Screen Shot 2023-01-30 at 1 58 57 PM" src="https://user-images.githubusercontent.com/120864279/215582439-5a4b9ee7-2947-429a-9143-6cf71026e625.png">
+
+Now I'm ready to install Active Directory. If everything goes well in the installation process my results will be good, however; if there are any errors it will show me so I can fix them.
+
+<p>                                                                                                              

@@ -105,4 +105,8 @@ Once I get to the domain controller options I have to set up a password for my d
   
 <p>
   
+  <img width="1440" alt="Screen Shot 2023-01-30 at 1 46 42 PM" src="https://user-images.githubusercontent.com/120864279/215580035-bbd01909-4e09-4075-a9bd-4bd04daa43da.png"
 
+When at the additional options page I wait until my domain names populates the field. Have to make sure that it's the right name.
+
+<p>

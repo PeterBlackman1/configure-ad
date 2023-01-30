@@ -140,4 +140,14 @@ After resetting my computer and coming back to the server manager this is how sc
   
 <p>
 
+![Screen Shot 2023-01-30 at 2 13 22 PM (2)](https://user-images.githubusercontent.com/120864279/215585169-1567548a-1c8c-47f2-9fbe-5de148af1fff.png)
+
+To open Active Directory in the server manager I click tools and select Active Directory Users and Computers.
+
+<p>
+
+
+
+
+
 <p>

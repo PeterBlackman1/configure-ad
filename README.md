@@ -159,5 +159,27 @@ After I've created my two organizations units _ADMINS and _EMPLOYEES.
 <p>
 
 
+![Screen Shot 2023-01-30 at 2 28 37 PM (2)](https://user-images.githubusercontent.com/120864279/215588251-7397fbba-0f51-4875-ac8f-c740d5db8985.png)
+
+Creating a new Admin profile for myself so I can log in as an admin
+
+<p>
+
+![Screen Shot 2023-01-30 at 2 29 36 PM (2)](https://user-images.githubusercontent.com/120864279/215588276-988581c9-41b6-44aa-bebe-931344d83118.png)
+
+Setting the name and the login username to the user I'm creating.
+
+<p>
+
+![Screen Shot 2023-01-30 at 2 30 08 PM (2)](https://user-images.githubusercontent.com/120864279/215588298-391835f5-e134-49f3-9398-373e3a6fecd8.png)
+
+Setting password for account so I can login.
+<p>
+
+![Screen Shot 2023-01-30 at 2 30 17 PM (2)](https://user-images.githubusercontent.com/120864279/215588319-9d098931-1e6d-44a0-8c59-773205059a0d.png)
+
+Finishing creating the account.
+
+<p>
 
 <p>

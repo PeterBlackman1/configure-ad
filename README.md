@@ -255,3 +255,22 @@ Logging into Client-1 as admin
 Right click the menu button in Client-1 and go to settings. Once in settings I go to Remote Desktop.
   
 <p>
+
+
+![Screen Shot 2023-01-30 at 7 06 42 PM (2)](https://user-images.githubusercontent.com/120864279/215632815-1e78dd48-cc63-4dec-86ef-20490b933730.png)
+
+I click "Select users that can remotely access this PC" and this screen comes up. I then click add to select users.
+
+<p>
+
+![Screen Shot 2023-01-30 at 7 08 56 PM (2)](https://user-images.githubusercontent.com/120864279/215633118-18f1d8d9-3afa-4a68-99eb-66c1bbe4b1a7.png)
+
+When I get to this screen I enter "domain users" and click check names. Then domain users is underlined and I select ok to add to list.
+
+<p>
+
+![Screen Shot 2023-01-30 at 7 03 16 PM (2)](https://user-images.githubusercontent.com/120864279/215632353-ee7ebced-7f64-47d8-8460-ade15c5e6a5e.png)
+
+After typing in "domain users" and click check names it gets highlighted and underlined. Then I hit ok and now my Domain Users has access to the Remote Desktop.
+
+<p>

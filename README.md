@@ -280,3 +280,19 @@ After typing in "domain users" and click check names it gets highlighted and und
 Verifying that everyone is in the Domain Users group.
 
 <p>
+
+![Screen Shot 2023-01-30 at 7 38 58 PM (2)](https://user-images.githubusercontent.com/120864279/215637883-da5985d9-adde-48b1-a7a3-71001d0cec31.png)
+
+Created random accounts to populate the _EMPLOYEES folder to test and see if I can log into the domain controller from an employee account.
+  
+<p>
+  
+![Screen Shot 2023-01-30 at 8 47 00 PM (2)](https://user-images.githubusercontent.com/120864279/215649918-75a18563-1802-4c92-bd49-de0a89acaf90.png)
+
+I selected a random user to see if I can log onto the DNS server. I copied the account name to login.
+
+<p>
+
+![Screen Shot 2023-01-30 at 8 52 16 PM (2)](https://user-images.githubusercontent.com/120864279/215650680-8caeb15c-8332-4c28-945f-833d2325ee99.png)
+
+Able to log into Client-1 as a new user.

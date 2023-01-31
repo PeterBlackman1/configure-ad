@@ -243,4 +243,10 @@ I enter login information and click ok.
 If done successfully I will get a pop-up window saying "Welcome to the ....domain" and then tell me to restart my computer.
 
 <p>
+  
+ ![Screen Shot 2023-01-30 at 6 40 48 PM (2)](https://user-images.githubusercontent.com/120864279/215629116-4edf31f0-24c1-4a3b-a7d0-7b5d9df3b9a9.png)
+
+Logging into Client-1 as admin
+
+<p>
 <p>

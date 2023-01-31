@@ -231,4 +231,16 @@ After clicking Rename this PC it brings me to system properties page where I cli
 I go to "Member of" and click domain to enter the DNS server private IP address then hit ok.
 
 <p>
+  
+![Screen Shot 2023-01-30 at 6 32 04 PM (2)](https://user-images.githubusercontent.com/120864279/215628018-c410bb06-88b9-4d22-a6f8-82ab2886dd67.png)
+
+I enter login information and click ok. 
+
+<p>
+
+![Screen Shot 2023-01-30 at 6 35 28 PM (2)](https://user-images.githubusercontent.com/120864279/215628472-b0909903-c30f-4682-bc5b-b023163f26e5.png)
+
+If done successfully I will get a pop-up window saying "Welcome to the ....domain"
+
+<p>
 <p>

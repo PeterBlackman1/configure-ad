@@ -274,3 +274,9 @@ When I get to this screen I enter "domain users" and click check names. Then dom
 After typing in "domain users" and click check names it gets highlighted and underlined. Then I hit ok and now my Domain Users has access to the Remote Desktop.
 
 <p>
+
+![Screen Shot 2023-01-30 at 7 16 29 PM (2)](https://user-images.githubusercontent.com/120864279/215634275-336d4194-1dae-4492-b74e-991faf3cc210.png)
+
+Verifying that everyone is in the Domain Users group.
+
+<p>

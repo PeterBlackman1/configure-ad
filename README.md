@@ -240,7 +240,7 @@ I enter login information and click ok.
 
 ![Screen Shot 2023-01-30 at 6 35 28 PM (2)](https://user-images.githubusercontent.com/120864279/215628472-b0909903-c30f-4682-bc5b-b023163f26e5.png)
 
-If done successfully I will get a pop-up window saying "Welcome to the ....domain"
+If done successfully I will get a pop-up window saying "Welcome to the ....domain" and then tell me to restart my computer.
 
 <p>
 <p>

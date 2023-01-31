@@ -220,5 +220,15 @@ After I assign the DNS server private IP to Client-1 I have to restart computer.
 After computer is back up and running, I right-click the menu and go to system. When in system I go over to rename this PC.
 
 <p>
+![Screen Shot 2023-01-30 at 6 05 54 PM (2)](https://user-images.githubusercontent.com/120864279/215624800-b4e3f0fa-0ffe-42f1-837f-221fa568cd57.png)
 
+After clicking Rename this PC it brings me to system properties page where I click "change" at the bottom.
+
+<p>
+
+![Screen Shot 2023-01-30 at 6 26 26 PM (2)](https://user-images.githubusercontent.com/120864279/215627278-0ccec094-7c61-4930-a09f-81fd6c20664a.png)
+
+I go to "Member of" and click domain to enter the DNS server private IP address then hit ok.
+
+<p>
 <p>

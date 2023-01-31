@@ -249,4 +249,9 @@ If done successfully I will get a pop-up window saying "Welcome to the ....domai
 Logging into Client-1 as admin
 
 <p>
+  
+![Screen Shot 2023-01-30 at 6 56 48 PM (2)](https://user-images.githubusercontent.com/120864279/215631301-a7e81d64-7a84-4890-a7fe-1c47db661b5b.png)
+
+Right click the menu button in Client-1 and go to settings. Once in settings I go to Remote Desktop.
+  
 <p>
